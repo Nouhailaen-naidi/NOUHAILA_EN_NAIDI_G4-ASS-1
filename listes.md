@@ -210,7 +210,6 @@ def argmax(l):
     return k+1,m # k indice du plus grand, m plus grand
        
        
-       
 l= [3,8,12,4,15,-1]
 k0,m0= argmax(l)
 print("PG ",m0, "----->", k0)
